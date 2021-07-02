@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/lopon4ckt2zz/public_html/digibusinessworld.com
+    - /bin/cp * $DEPLOYPATH
